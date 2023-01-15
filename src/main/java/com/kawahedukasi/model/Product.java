@@ -1,6 +1,6 @@
-package org.acme.model;
+package com.kawahedukasi.model;
 
-import org.acme.utils.AuditModel;
+import com.kawahedukasi.utils.AuditModel;
 
 import javax.persistence.*;
 

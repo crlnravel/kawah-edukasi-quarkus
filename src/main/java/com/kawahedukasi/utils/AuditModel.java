@@ -1,4 +1,4 @@
-package org.acme.utils;
+package com.kawahedukasi.utils;
 
 import io.quarkus.hibernate.orm.panache.PanacheEntityBase;
 import org.hibernate.annotations.CreationTimestamp;
